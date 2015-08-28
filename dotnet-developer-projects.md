@@ -243,6 +243,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
 * Data Access
  * [Dapper](https://github.com/StackExchange/dapper-dot-net) - Dapper is a single file you can drop in to your project that will extend your IDbConnection interface.
  * [Eggado](https://code.google.com/p/eggado/) - Eggado takes generics, lambdas, expression trees, dynamic methods and DLR and uses them to breathe new life into data access using good old ADO.NET. It's for folks who can live with a SQL dialect.
+ * [Elephant](https://github.com/takenet/elephant) - Persistence library that provides common data structures as composable elements to abstract any storage engine, including (No)SQL databases.
  * [King.Mapper](https://github.com/jefking/King.Mapper) - High performance model mapping.
  * [linq2db](https://github.com/linq2db/linq2db/) - Lightweight ORM and LINQ provider with support for various databases including MS SQL, PostgreSQL, Oracle and MySQL
  * [NHibernate](https://github.com/nhibernate) - Object Relational Mapper
